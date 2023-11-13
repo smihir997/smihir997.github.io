@@ -54,39 +54,39 @@ backdrop-filter: blur(10px);
     color: #D2DE32;
     position: absolute;
     top: 7%;
-    left: -5%;
+    left: 11%;
     font-size: 4rem;
 }
 
 .jsk{
     color:#068FFF;
     position: absolute;
-    top: 22%;
-    left: 57%;
-    font-size: 2.8rem;
+    top: 37%;
+    left: 60%;
+    font-size: 20.5px;
 }
 
 
 .hny{
     color: #C70039;
     position: absolute;
-    top: 38%;
+    top: 45%;
     left: 44%;
-    font-size: 1.8rem;
+    font-size: 15px;
 }
 
 .new{
     color: #C70039;
     position: absolute;
-    top: 44%;
+    top: 48%;
     left: 46%;
-    font-size: 2.3rem;
+    font-size: 1.3rem;
 }
 .touch{
     position: absolute;
-    top: 65%;
-    left: 42%;
-    font-size: 1.5rem;
+    top: 60%;
+    left: 36%;
+    font-size: 13px;
 }
 .mihir{
     position: absolute;
@@ -97,14 +97,14 @@ backdrop-filter: blur(10px);
 
 .insta{
     position: absolute;
-    top: 62%;
-    left: 65%;
+    top: 55%;
+    left: 61%;
 }
 
 .wp{
         position: absolute;
-        top: 62.5%;
-        left: 72%;
+        top: 55.5%;
+        left: 74%;
     
     }
 
